@@ -1,0 +1,5 @@
+@include('_layouts.header')
+@include("_layouts.side")
+@include('_layouts.nav')
+@include("_layouts.content")
+@include("_layouts.footer")
